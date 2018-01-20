@@ -8,3 +8,9 @@ languages.
 
 For this course, the projects will be implemented within Virtual Environments,
 utilizing Python's **Virtualenv** library.
+
+Along side the source code in each chapter's directory will also be found
+**Jupyter Notebooks** containing my own experimentation, anotations and comments.
+
+Each chapter directory will be treated as an individual virtual environment and
+will contain its own _requirements.txt_ file.
